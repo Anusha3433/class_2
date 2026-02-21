@@ -1,3 +1,6 @@
 Git
   Git is tool , It is  used to track the changes of code
-  
+  and it is works on local system
+version control:
+   It manages the different version of project
+
